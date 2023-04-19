@@ -26,12 +26,7 @@ namespace  PII_Game_Of_Life
                 s.Append("\n");
             }
             Console.WriteLine(s.ToString());
-            //=================================================
-            //Invocar método para calcular siguiente generación
-            //=================================================
-            Thread.Sleep(300);
-
-
+      
         }
         
         
